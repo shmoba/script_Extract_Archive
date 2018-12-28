@@ -1,0 +1,5 @@
+body{margin: 70px auto; width: 960px; font-family: sans-serif;}
+.select_file {margin-bottom: 15px;}
+.upload {margin-bottom: 30px;}
+.error {padding: 15px; border: solid 2px #ff3800; background-color: #ffbf9c; margin-bottom: 15px;}
+.success {padding: 15px; border: solid 2px #14d414; background-color: #b9ffa1; margin-bottom: 15px;}
